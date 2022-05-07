@@ -1,0 +1,26 @@
+.single-find-out{
+    padding: 20px 15px;
+    .left-find-img{
+
+    }
+    .right-find-text{
+        h2{
+          font-size: 20px;
+        }
+        p{
+
+        }
+        .btn-course{
+            background-color: white;
+            color: #333;
+            border: 1px solid #e3e3e3;
+            font-size: 16px;
+            transition: .3s ease-in-out;
+            &:hover{
+                border: 1px solid #ff1f59;
+                color: white;
+                background-color: #ff1f59;
+            }
+        }
+    }
+}

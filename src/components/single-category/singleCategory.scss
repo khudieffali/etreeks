@@ -1,0 +1,30 @@
+.category {
+   border-radius: 10px;
+    background-color: #8dd17e;
+    color: white;
+    padding: 50px;
+    .all-category-course {
+        .category-image {
+            border-radius: 50%;
+            background-color: hsla(0, 0%, 100%, .1);
+            margin-bottom: 25px;
+            img{
+                padding: 35px;
+            }
+        }
+
+        .category-text {
+            h2 {
+                font-size: 19px;
+                font-weight: 700;
+            }
+
+            p {
+                font-size: 17px;
+                font-weight: 400;
+            }
+        }
+    }
+
+
+}

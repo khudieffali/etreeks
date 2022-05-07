@@ -1,0 +1,25 @@
+.transform{
+    padding: 100px 0px;
+    padding-left: 80px;
+     .single-transform{
+         .right-transform-text{
+             h1{
+                font-size:40px;
+                color: #283034;
+                font-weight: 700;
+                margin-bottom: 20px;
+             }
+             p{
+                font-size: 16.5px;
+                margin-bottom: 15px;
+             }
+             ul{
+                 li{
+                    font-size: 16.5px;
+                    line-height: 1.75rem;
+                 }
+             }
+             
+         }
+     }
+}

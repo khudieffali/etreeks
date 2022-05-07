@@ -1,0 +1,32 @@
+.category-course{
+    padding: 100px 0;
+    h1{
+        font-size: 2.5rem;
+        font-weight: 700;
+    }
+    .all-category-course{
+        margin: auto;
+        .left-text-category{
+            p{
+                margin-top: 15px;
+                font-size: 1.15rem;
+                color:#888;
+            }
+        }
+        .right-btn-category{
+            .btn-category{
+                background-color: white;
+                color: #333;
+                border: 1px solid #e3e3e3;
+                font-size: 16px;
+                transition: .3s ease-in-out;
+                &:hover{
+                    border: 1px solid #ff1f59;
+                    color: white;
+                    background-color: #ff1f59;
+                }
+            }
+           
+        }
+    }
+}

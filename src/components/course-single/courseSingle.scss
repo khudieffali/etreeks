@@ -1,0 +1,22 @@
+.courseSingle{
+    .all-course{
+        padding: 20px 0;
+        .left-icon{
+             color: white;
+             .icon-book{
+                 font-size: 3.5rem;
+             }
+        }
+        .right-text{
+            h5{
+               color: white;
+               font-size: 19px;
+               font-weight: 600;
+            }
+            p{
+                color: white;
+                font-size: 19px;
+            }
+        }
+    }
+}

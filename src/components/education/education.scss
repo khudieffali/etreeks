@@ -1,0 +1,34 @@
+.education{
+    background-image: url('../../images/background-2.jpg');
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    .top-education{
+        h1{
+            font-size:40px;
+            color:white;
+            font-weight: 700;
+            margin-bottom: 20px;
+         }
+         p{
+            font-size: 18px;
+            margin-bottom: 15px;
+            color: white;
+         }
+        .btn-education{
+            color: #fff;
+            border: 1px solid #ff1f59;
+            border-color: #ff1f59;
+            padding: 23px 30px; 
+            font-size: 17px;
+            transition: .3s ease-in-out;
+            &:hover{
+               border: 1px solid black;
+                 background-color: white;
+                 color: black;
+
+            }
+        }
+    }
+}
