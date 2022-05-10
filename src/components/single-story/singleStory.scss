@@ -1,0 +1,37 @@
+.single-story{
+    padding-right: 15px;
+    margin-right: 20px;
+    border-right: 1px solid #75757557 ;
+    .all-text-story{
+        span{
+            color: #757575;
+            line-height: 3;
+            font-weight: 400;
+            font-size: 1rem;
+        }
+        a{
+        
+            h2{
+            color: #151515;
+            font-size: 18px;
+            margin-bottom: 15px;
+            font-weight: 700;
+            &:hover{
+                color: black;
+                text-decoration: 2px solid black;
+            }
+            }
+        }
+        p{
+            font-size: 1.05rem;
+            margin-bottom: 15px;
+        }
+        h3{
+            color: #757575;
+            font-size: 1rem;
+            font-family: Muli,sans-serif;
+            line-height: 1;
+            font-weight: 700;
+        }
+    }
+}

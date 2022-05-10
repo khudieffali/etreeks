@@ -7,6 +7,7 @@ const FindOut = () => {
         <div className="container">
             <div className="row">
              <SingleFindOut/>
+             <SingleFindOut/>
             </div>
         </div>
     </section>

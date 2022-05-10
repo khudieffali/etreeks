@@ -8,7 +8,7 @@ const BestCourses = () => {
     <section className="best-course">
     <div className="container">
         <div className="row">
-        <h1>Best Courses of All-Time</h1>
+        <h1>Best Discount Courses of All-Time</h1>
             <div className="col-lg-12">
                 <div className="all-best-course d-flex justify-content-between align-items-center">
                 <div className="col-lg-6 col-md-12">

@@ -17,8 +17,8 @@ const SingleFindOut = () => {
                             <div className="right-find-text">
                                 <h2>Become a Teacher</h2>
                                 <p>Feugiat primis ligula a risus auctor egestas an augue mauri and viverra tortor iaculis an eugiat viverra</p>
-                                <Button colorScheme='pink' className='btn-course'>
-                                    View All Courses
+                                <Button colorScheme='red' className='btn-course'>
+                                    Find Out More
                                 </Button>
                             </div>
                         </div>

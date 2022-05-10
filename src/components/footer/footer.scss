@@ -1,0 +1,109 @@
+.footer{
+    padding: 100px 0 30px 0;
+   .left-logo{
+    img{
+        width: 170px;
+    }
+       p{
+        margin-top:25px;
+       font-size: 17px;
+       font-weight: 400;
+       }
+      
+   } 
+   .link{
+       h2{
+        color: #283034;
+        font-family: Muli,sans-serif;
+        font-weight: 700;
+        font-size: 1.25rem;
+        margin-bottom: 25px;
+       }
+       ul{
+           li{
+               list-style: none;
+               a{
+                 font-size: 17px;
+                 line-height: 32px;
+                 color: black;
+                 &:hover{
+                     color: #757575;
+                 }
+               }
+           }
+       }
+   }
+   .footer-categories{
+       h2{
+        color: #283034;
+        font-family: Muli,sans-serif;
+        font-weight: 700;
+        font-size: 1.25rem;
+        margin-bottom: 25px;
+       }
+       ul{
+           li{
+            list-style: none;
+            a{
+              font-size: 17px;
+              line-height: 32px;
+              color: black;
+              &:hover{
+                color: #757575;
+            }
+            }
+           }
+       }
+   }
+   .right-footer{
+       h2{
+        color: #283034;
+        font-family: Muli,sans-serif;
+        font-weight: 700;
+        font-size: 1.25rem;
+        margin-bottom: 35px;
+       }
+       .bottom-input{
+           .input-footer{
+            padding:25px;
+            border: 1px solid rgba(0, 0, 0, 0.221);
+            margin-bottom: 15px;
+            border-bottom-right-radius: 0px;
+            border-top-right-radius: 0px;
+        &::placeholder{
+            text-align: center;
+        }
+           }
+           .btn-footer{
+            color: #fff;
+            border: 1px solid #ff1f59;
+            border-color: #ff1f59;
+            width: 100%;
+            padding: 23px 0;
+            font-size: 17px;
+            transition: .3s ease-in-out;
+            &:hover{
+                 border: 1px solid black;
+                 background-color: white;
+                 color: black;
+
+            }
+        }
+       }
+   }
+   .theEnd{
+       padding: 100px 0 0 0;
+       p{
+           font-size: 17px;
+           color: #5b5b5b;
+           span{
+               border-left: 1px solid black;
+               padding-left: 10px;
+               font-size: 17px;
+               font-weight: 700;
+               margin-left: 10px;
+               color: black;
+           }
+       }
+   }
+}

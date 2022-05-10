@@ -1,0 +1,30 @@
+.singleOpportunity{
+    background-color: #fff;
+    border: 1px solid #e2e2e2;
+    padding: 40px;
+    margin-bottom: 40px;
+    border-radius: 6px;
+    transition: .45s ease-in-out;
+    box-shadow: 0 0 6px rgb(0 0 0 / 5%);
+    margin-right: 22px;
+    &:hover{
+        border: 1px solid #f5f5f5;
+       box-shadow: 0 6px 15px 0 rgb(0 0 0 / 15%);
+       opacity: .8;
+    }
+    .img-opportunity{
+        width: 75px;
+    }
+    .bottom-opportunity{
+        h2{
+            margin-top: 20px;
+            margin-bottom: 12px;
+            font-size: 1.25rem;
+            font-weight: 700;
+        }
+        p{
+            color: #757575;
+            font-size: 1.05rem;
+        }
+    }
+}

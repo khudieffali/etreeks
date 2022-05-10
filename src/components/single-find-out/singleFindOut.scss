@@ -1,25 +1,30 @@
 .single-find-out{
-    padding: 20px 15px;
-    .left-find-img{
-
-    }
+    padding: 50px 15px;
+    background-color: white;
+    border-radius: 10px;
     .right-find-text{
         h2{
-          font-size: 20px;
+            font-size: 1.4rem;
+            line-height: 1;
+            margin-bottom: 12px;
+            font-weight: 600;
         }
         p{
-
+            font-size: 1.05rem;
+            margin-bottom: 15px;
         }
         .btn-course{
-            background-color: white;
-            color: #333;
-            border: 1px solid #e3e3e3;
-            font-size: 16px;
+            color: #fff;
+            border: 1px solid #ff1f59;
+            border-color: #ff1f59;
+            padding: 23px 30px; 
+            font-size: 17px;
             transition: .3s ease-in-out;
             &:hover{
-                border: 1px solid #ff1f59;
-                color: white;
-                background-color: #ff1f59;
+                 border: 1px solid black;
+                 background-color: white;
+                 color: black;
+
             }
         }
     }
